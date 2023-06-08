@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://github.com/msaad1999/GREY/blob/master/assets/grey%20logo.png" width="300" aligh="center"/>
 </p>
 
 # A Python based 2D Game
